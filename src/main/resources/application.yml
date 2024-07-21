@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: dify-demo
+
+dify:
+  url: http://localhost/v1/chat-messages
+  key:
+    test: app-y67TVu9T8tZ6r2UUMBJ6wm8R
+
